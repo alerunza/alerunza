@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @runzac
+- 👀 I’m interested in "web developing"
+- 🌱 I’m currently learning "c++"
+- 🌀 I’m looking to collaborate on "school projects"

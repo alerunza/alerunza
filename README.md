@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @runzac
-- 👀 I’m interested in "web developing"
-- 🌱 I’m currently learning "c++"
-- 🌀 I’m collaborating on "school projects"
+~~~~~~~~~~~~~~~~~~~~~~~
+ Hi, I’m @runzac
+ 16 y.o.
+ I’m currently learning c++
+
+ Working on school projects UwU
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+
+What i'm trying to do:
+
+c++ ino/arduino
+~~~~~~~~~~~~~~~~~~~~~~~

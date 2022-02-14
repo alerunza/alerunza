@@ -9,5 +9,5 @@
 
 What i'm trying to do:
 
-c++/ino school projects, python for fun and web developing
+c++/ino for school projects, python for fun and web developing
 ~~~~~~~~~~~~~~~~~~~~~~~

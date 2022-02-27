@@ -1,4 +1,5 @@
 ## 😒 Who am i?
+- 🎈 My name is Alessandro and i'm from Sicily, Italy.
 
 - 🔭 I’m currently working on **School Projects**
 

@@ -1,16 +1,31 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=runzac&label=Profile%20views&color=0e75b6&style=flat" alt="runzac" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=runzac&label=Profile%20views&color=0e75b6&style=flat" alt="runzac" /> </p>
 
-- 🔭 I’m currently working on **School Projects**
+<h3 align="center">wanna be developer 🇮🇹</h3>
 
-- 🎈 My name is Alessandro and i'm from **Sicily, Italy.**
+<br/>
 
-- ⚡18 **y.o.**
+<div align="center">
+ 
+ 🔭 I’m currently working on **School Projects**
+ 
+ I code, watch movies, and game. Let's connect if you're into the same stuff!
+ <br/>Happy coding and playing! 🎮🎬
 
+ ⚡18 **y.o.**
+ 
+ </div>
+
+<h3 align="center">Languages:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,tailwind,js,firebase" />
+  </a>
 </p>
-
-<h3 align="left">Languages:</h3>
-<p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</a> <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91915526/209193754-91cc7646-0dd5-4f3f-b806-0cac6b73168b.png" alt="html" width="40" height="40"/> </a></p>
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="git" width="40" height="40"/> </a> <a href="https://developers.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/855854449649385482/1073565160263921814/image.png" alt="git" width="40" height=40"/> </a> <a href="https://www.jetbrains.com/idea/download/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="git" width="40" height="40"/> </a> </p>
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,vscode,eclipse,androidstudio,idea" />
+  </a>
+</p>
+<!-- [![Top Langs](https://[github-readme-stats.vercel.app](https://github-readme-stats-alerunza.vercel.app/)/api/top-langs/?username=alerunza&layout=compact)](https://github.com/alerunza/github-readme-stats) -->

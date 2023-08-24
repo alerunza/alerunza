@@ -28,4 +28,4 @@
     <img src="https://skillicons.dev/icons?i=git,arduino,vscode,eclipse,androidstudio,idea" />
   </a>
 </p>
-<!-- [![Top Langs](https://[github-readme-stats.vercel.app](https://github-readme-stats-alerunza.vercel.app/)/api/top-langs/?username=alerunza&layout=compact)](https://github.com/alerunza/github-readme-stats) -->
+[![Top Langs](https://[github-readme-stats.vercel.app](https://github-readme-stats-alerunza.vercel.app/)/api/top-langs/?username=alerunza&layout=compact)](https://github.com/alerunza/github-readme-stats)

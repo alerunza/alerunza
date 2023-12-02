@@ -19,7 +19,7 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,tailwind,js,firebase" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,js,firebase" />
   </a>
 </p>
 <h3 align="center">Tools:</h3>

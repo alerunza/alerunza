@@ -1,30 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alessandro</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=runzac&label=Profile%20views&color=0e75b6&style=flat" alt="runzac" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=runzac&label=Profile%20views&color=0e75b6&style=flat" alt="runzac" /> </p>
 
-<h3 align="center">wanna be developer 🇮🇹</h3>
+## hi, i'm Alessandro 👋
 
-<br/>
+**languages:**  `c++` `java` `javascript`
 
-<div align="center">
- 
- 🔭 I’m currently working on **School Projects**
- 
- I code, watch movies, and game. Let's connect if you're into the same stuff!
- <br/>Happy coding and playing! 🎮🎬
+**studying** *computer science* [@unito](https://unito.it)
 
- ⚡18 **y.o.**
- 
- </div>
-
-<h3 align="center">Languages:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,firebase,mysql" />
-  </a>
-</p>
-<h3 align="center">Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,vscode,eclipse,androidstudio,idea" />
-  </a>
-</p>
+**current projects:**
+- [TimeLine Application Website](https://timelinerp.netlify.app) (WIP)
+- [code4dummies](https://code4dummies.netlify.app) (WIP)

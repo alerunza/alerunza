@@ -2,10 +2,10 @@
 
 ## hi, i'm Alessandro 👋
 
-**languages:**  `c++` `java` `javascript`
+**languages:**  `c` `java` `javascript`
 
-**studying** *computer science* [@unito](https://unito.it)
+**studying** *computer science* @ [unito](https://unito.it)
 
 **current projects:**
 - [TimeLine Application Website](https://timelinerp.netlify.app) (WIP)
-- classroom+
+- [classroom+](https://classroom-plus-gamma.vercel.app) (WIP | demo available)

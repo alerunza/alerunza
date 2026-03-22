@@ -8,4 +8,4 @@
 
 **current projects:**
 - [TimeLine Application Website](https://timelinerp.netlify.app) (WIP)
-- [classroom+](https://classroom-plus-gamma.vercel.app) (WIP | demo available)
+- classroom+
